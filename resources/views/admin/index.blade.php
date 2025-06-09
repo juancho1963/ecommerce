@@ -6,7 +6,7 @@
 
         <div class="col-md-9 mx-auto ">
             <div class="row">
-                <h3 class="p-4">Dashboard index blade php</h3>
+                <h3 class="p-4 text-black">Dashboard index blade php</h3>
                 <!-- Ordenes de hoy -->
                 <div class="col-md-6 mb-4">
                     <!-- <div class="card shadow-sm border bg-light"> da color blanco a la targeta -->

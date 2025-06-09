@@ -25,7 +25,7 @@
                             </div>
                             <div class="mb-2">
                                 <button type="submit" class="btn btn-sm btn-primary">
-                                    Crear color
+                                    Crear color con ayuda
                                 </button>
                             </div>
                         </form>
